@@ -1,7 +1,7 @@
 import React, { Component, PropTypes } from 'react';
 import { render } from 'react-dom';
-import Monkey from 'monkey/lib/Monkey.js';
-var {Picker, View} = Monkey;
+import Nuke from 'nuke';
+var {Picker, View} = Nuke;
 
 let App = React.createClass({
     render() {
@@ -10,7 +10,9 @@ let App = React.createClass({
               <View>
                 App
               </View>
+
               <Picker/>
+
             </div>
         )
     },

@@ -1,10 +1,10 @@
 {
-  "name": "grow-client",
+  "name": "nuke-doc",
   "version": "0.0.5",
   "description": "Grow app",
   "repository": {
     "type": "git",
-    "url": "git@git.corp.angejia.com:grow/grow-app.git"
+    "url": "git@github.com:quentinyang/nuke-doc.git"
   },
   "scripts": {
     "start": "gulp"
